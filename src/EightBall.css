@@ -1,0 +1,30 @@
+.eight-ball {
+    width: 200px;
+    height: 200px;
+    border-radius: 70%;
+    border-style: solid;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.eight-ball-button {
+    float: left;
+}
+
+.black {
+    background-color: black;
+}
+
+.green {
+    background-color: green;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+}
+
+.red {
+    background-color: red;
+}
